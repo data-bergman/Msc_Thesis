@@ -1,0 +1,1 @@
+These two files are the essential code to be taken from my msc thesis. My actual thesis may end up being published here after corrections. The models file includes more content but in a less succinct form while the opposite is true for the cleanup file.
